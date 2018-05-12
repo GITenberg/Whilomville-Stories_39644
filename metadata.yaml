@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55
     wikipedia: http://en.wikipedia.org/wiki/Stephen_Crane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39644#Whilomville-Stories
 gutenberg_issued: '2012-05-07'
 gutenberg_type: Text
 identifiers:
